@@ -99,7 +99,6 @@ Generated a targeted wordlist using `crunch`:
 crunch 6 6 -t for%%% -o dict.txt
 ```
 
-![passwd_crack](snippets/passwd_crack.png)
 
 Brute-forced with fcrackzip:
 ```bash
